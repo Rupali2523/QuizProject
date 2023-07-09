@@ -1,3 +1,4 @@
+Author - Rupali Vaishnav
 # QuizProjectJSON
 * It is an Online Test Application system that enables users to give online tests, review their answers, and check their results.
 * This system contains three main modules: Quiz, Review, and Result. The quiz section of the online test application accepts the questions in JSON format. The JSON file can be easily shared from the server in the pre-defined format. The application renders the test at the client-side.
